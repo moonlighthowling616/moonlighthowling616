@@ -1,5 +1,5 @@
 ## Hi there, I'm Cerberi!👋
-📝 A Hellhound Information Technology student who loves working on inner working of Front-End Development and Graphic Design
+#📝 A Hellhound Information Technology student who loves working on inner working of Front-End Development and Graphic Design
 
 ![losercity-thought-v0-ekvs5vp9mu7f1](https://github.com/user-attachments/assets/13a7b10f-29f1-4c15-8546-ed78073d81ce)
 
