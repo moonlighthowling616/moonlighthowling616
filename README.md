@@ -1,5 +1,5 @@
 ## **Hi there, I'm Cerberi!👋**
-A Hellhound Information Technology student who loves working on inner working of Front-End Development
+A Hellhound Information Technology student who loves working on inner workings of Front-End Development
 
 ![file](https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3)
 
