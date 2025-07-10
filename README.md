@@ -3,7 +3,7 @@ A Hellhound Information Technology student who loves working on inner working of
 
 ![9nlk0c](https://github.com/user-attachments/assets/253d68b8-887c-4b90-a799-04efd8085cd8)
 
-## **Languages and Tools 🛠️**
+## **Languages and Tools🛠️**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
