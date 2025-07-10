@@ -1,7 +1,7 @@
 ## **Hi there, I'm Cerberi!👋**
 A Hellhound Information Technology student who loves working on inner working of Front-End Development
+![file](https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3)
 
-![9nlk0c](https://github.com/user-attachments/assets/253d68b8-887c-4b90-a799-04efd8085cd8)
 
 ## **Languages and Tools🛠️**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
