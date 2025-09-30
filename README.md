@@ -1,8 +1,7 @@
 ## **Hi there, I'm Cerb!👋**
-A "Hellhound" Information Technology student who loves working on inner workings of Front-End Development
+A "Hellhound" Information Technology student, that's all I can say so far...
 
 ![file](https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3)
-
 
 ## **Languages and Tools🛠️**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
