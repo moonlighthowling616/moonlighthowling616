@@ -1,5 +1,5 @@
 ## **Hi there, I'm Cerb!👋**
-A "Hellhound" Information Technology student. Wannabe front-end developer and an Android app developer in the making!
+A "Hellhound" Information Technology student. Wannabe front-end and Android app developer!
 
 ![file](https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3)
 
