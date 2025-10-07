@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <em></em>
+  <em>Programmed on Earth by humans</em>
 </p>
