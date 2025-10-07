@@ -3,4 +3,6 @@
 
 **A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight)
+<p align="center">
+  <img src="https://your-image-link.com/image.png" alt="Centered Image" width="200"/>
+</p>
