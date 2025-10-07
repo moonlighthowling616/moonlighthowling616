@@ -4,5 +4,5 @@
 **A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.**
 
 <p align="center">
-  <img src="https://your-image-link.com/image.png" alt="Centered Image" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight" alt="Top Langs" />
 </p>
