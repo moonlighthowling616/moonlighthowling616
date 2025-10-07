@@ -1,5 +1,5 @@
 ## **Hi there, I'm Cerb!👋**
-** A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.**
+**A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.**
 
 <div style="display: flex; align-items: center; gap: 50px; margin-bottom: 40px;">
   <img src="https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3" alt="file" height="250px" />
