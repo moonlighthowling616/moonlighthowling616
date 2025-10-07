@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <em>README.md inspired by [](https://github.com/kyuiki)</em>
+  <em>README.md inspired by [Kiki Maulana](https://github.com/kyuiki)</em>
 </p>
