@@ -1,8 +1,9 @@
 ## **Hi there, I'm Cerb!👋**
 **A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.**
-
-<div>
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3" alt="file" height="250px" />
+</div>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight" alt="Top Langs" />
 </div>
 
