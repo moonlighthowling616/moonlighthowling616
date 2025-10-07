@@ -1,7 +1,9 @@
 ## **Hi there, I'm Cerb!👋**
 A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight" alt="Top Langs">
+</div>
 
 ![file](https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3)
 
@@ -18,3 +20,5 @@ A "Hellhound" Information Technology student. Wannabe front-end and app develope
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
