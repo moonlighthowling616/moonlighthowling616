@@ -1,18 +1,14 @@
-<p align="center">
-  <h2>Hi there, I'm Cerb!👋</h2>
-</p>
-
+## **Hi there, I'm Cerb!👋**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3" alt="Cerb image" />
 </p>
-
 <p align="center">
   <strong>A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.</strong>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight" />
 </p>
+
 
 ## **Languages and Tools🛠️** 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
