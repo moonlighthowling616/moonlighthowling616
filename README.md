@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/kyuiki]">Kiki Maulana</a>
+  <em>Assets drawing made by Myself</em>
 </p>
