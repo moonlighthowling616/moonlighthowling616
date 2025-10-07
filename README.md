@@ -1,8 +1,8 @@
-## **Hi there, I'm Cerb!👋**
+<img width="856" height="277" alt="image" src="https://github.com/user-attachments/assets/a70402b8-8570-40d6-9347-1099363af545" /><img width="856" height="277" alt="image" src="https://github.com/user-attachments/assets/de191cc4-a267-4602-a743-6a8a2dc7b6d2" />## **Hi there, I'm Cerb!👋**
 **A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.**
 
 <div>
-  <img src="https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3" alt="file" height="250px" />
+  <img src="https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3" alt="file" height="250px" style="margin-left: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight" alt="Top Langs" />
 </div>
 
