@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <em>Assets drawing made by Myself</em>
+  <em>README.md inspired by [](https://github.com/kyuiki)</em>
 </p>
