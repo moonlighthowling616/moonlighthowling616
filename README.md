@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <em></em>
+  <em>©</em>
 </p>
