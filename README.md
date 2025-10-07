@@ -1,4 +1,4 @@
-<img width="856" height="277" alt="image" src="https://github.com/user-attachments/assets/a70402b8-8570-40d6-9347-1099363af545" /><img width="856" height="277" alt="image" src="https://github.com/user-attachments/assets/de191cc4-a267-4602-a743-6a8a2dc7b6d2" />## **Hi there, I'm Cerb!👋**
+## **Hi there, I'm Cerb!👋**
 **A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.**
 
 <div>
