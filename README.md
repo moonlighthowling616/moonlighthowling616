@@ -17,4 +17,4 @@ A "Hellhound" Information Technology student. Wannabe front-end and app develope
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight)
