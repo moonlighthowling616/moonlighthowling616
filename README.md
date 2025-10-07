@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
   <strong>Hi there, I'm Cerb!👋</strong>
-</p>
+</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3" height="400px" width="auto" />
