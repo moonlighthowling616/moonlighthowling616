@@ -3,10 +3,6 @@ A "Hellhound" Information Technology student. Wannabe front-end and app develope
 
 ![file](https://github.com/user-attachments/assets/33818bd0-0436-4797-8f43-f32a6bac19f3)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight" alt="Top Langs">
-</div>
-
 ## **Languages and Tools🛠️**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,4 +17,8 @@ A "Hellhound" Information Technology student. Wannabe front-end and app develope
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## **Stats for Nerds📊**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlighthowling616&theme=tokyonight" alt="Top Langs">
+</div>
