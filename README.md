@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <em>Programmed on Earth by humans</em>
+  <em>Matthew 7:15</em>
 </p>
