@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <em>✞Matthew 7:15✞</em>
+  <em>Programmed on Hell by a Hellhound</em>
 </p>
