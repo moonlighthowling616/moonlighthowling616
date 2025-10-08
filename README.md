@@ -1,5 +1,5 @@
 <h2 align="center">
-  <strong>Hi there, I'm Cerb!👋🏽</strong>
+  <strong>Hi there, I'm Cerb!🐺</strong>
 </h2>
 
 <p align="center">
@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <em>Matthew 7:15</em>
+  <em>✞Matthew 7:15✞</em>
 </p>
