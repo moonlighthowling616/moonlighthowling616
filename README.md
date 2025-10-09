@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <em>Programmed on Hell by a Hellhound</em>
+  <em></em>
 </p>
