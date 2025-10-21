@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>A "Hellhound" Information Technology student. Wannabe front-end and app developer. Publishing as Puting Lobo Studios.</strong>
+  <strong>A "Hellhound" Information Technology student. Wannabe web and app developer. Publishing as Puting Lobo Studios.</strong>
 </p>
 
 <p align="center">
