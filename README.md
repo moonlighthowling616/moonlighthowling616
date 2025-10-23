@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>A “Hellhound” IT student. Web dev’s my main thing, but I dive into app dev just for the fun of it!</strong>
+  <strong>A “Hellhound” IT student. Front-end’s my main thing.</strong>
 </p>
 
 <p align="center">
