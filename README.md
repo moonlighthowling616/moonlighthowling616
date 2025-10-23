@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>A “Hellhound” IT student. Front-end is my main thing. And yes, I'm a furry - deal with it!</strong>
+  <strong>A “Hellhound” IT student. Front-end is my main thing and yes, I'm a furry - deal with it!</strong>
 </p>
 
 <p align="center">
