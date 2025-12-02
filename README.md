@@ -2,7 +2,7 @@
 
 ## **Hi there, I'm Cerb! 🐺**
 
-<img src="" height="500" width="auto" />
+<img src="Cerb.jpg" height="500" width="auto" />
 
 A “Hellhound” IT student. Front-end is my main thing and yes, I'm a furry - deal with it!
 
