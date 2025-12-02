@@ -7,7 +7,7 @@
 A “Hellhound” IT student. Front-end is my main thing and yes, I'm a furry - deal with it!
 
 ### **👨🏽‍💻 Most Used Languages**
-(Ordered roughly from most to least frequent)
+#### (Ordered roughly from most to least frequent)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,python&perline=12" alt="Languages" />
