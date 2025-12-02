@@ -1,12 +1,12 @@
 <div align="center">
 
-## 🐾 Hi there, I'm Cerb! 🐺
+## **Hi there, I'm Cerb! 🐺**
 
 <img src="" height="500" width="auto" />
 
 A “Hellhound” IT student. Front-end is my main thing and yes, I'm a furry - deal with it!
 
-### 👨🏽‍💻 Most Used Languages
+### **👨🏽‍💻 Most Used Languages**
 (Ordered roughly from most to least frequent)
 
 <p align="center">
