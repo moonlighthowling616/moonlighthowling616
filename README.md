@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**moonlighthowling616/moonlighthowling616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐾 Hi there, I'm Cerb! 🐺
 
-Here are some ideas to get you started:
+<img src="https://github.com/user-attachments/assets/73bcbf55-1225-4d3a-b21c-62a4f3bdabf0" height="500" width="auto" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A “Hellhound” IT student. Front-end is my main thing and yes, I'm a furry - deal with it!
+
+### 👨🏽‍💻 Most Used Languages 
+(Ordered roughly from most to least frequent)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python&perline=12" alt="Languages" />
+</p>
+
+*Art by akira.Insuffirable 🤍*
+
+</div>
