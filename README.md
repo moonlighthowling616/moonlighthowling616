@@ -10,7 +10,7 @@ A “Hellhound” IT student. Front-end is my main thing and yes, I'm a furry - 
 (Ordered roughly from most to least frequent)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python&perline=12" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,sql,html,css,js,python&perline=12" alt="Languages" />
 </p>
 
 Art by akira.Insuffirable 🤍
